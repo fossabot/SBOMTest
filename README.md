@@ -12,6 +12,7 @@
     <a href="https://badge.fury.io/py/pygwalker">
         <img src="https://badge.fury.io/py/pygwalker.svg" alt="PyPI version" height="18" align="center" />
     </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAhmadkhas89%2FSBOMTest?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAhmadkhas89%2FSBOMTest.svg?type=shield"/></a>
     <a href="https://mybinder.org/v2/gh/Kanaries/pygwalker/main">
       <img src="https://mybinder.org/badge_logo.svg" alt="binder" height="18" align="center" />
     </a>
@@ -291,6 +292,9 @@ More details, refer it: [How to set your privacy configuration?](https://github.
 # License
 
 [Apache License 2.0](https://github.com/Kanaries/pygwalker/blob/main/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAhmadkhas89%2FSBOMTest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAhmadkhas89%2FSBOMTest?ref=badge_large)
 
 # Contribution Guideline
 You are encouraged to contribute to PyGWalker in any way that suits your interests. This may include:
